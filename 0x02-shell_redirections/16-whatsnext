@@ -1,0 +1,24 @@
+#!/bin/bash
+grep -i "root" -A 3 /etc/passwd
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+16-whatsnext[+] [unix] (21:40 07/08/2023)                                2,1 All
+-- INSERT -
